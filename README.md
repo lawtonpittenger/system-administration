@@ -13,7 +13,10 @@ An examination of operating systems and applications installation, configuration
 <li>Be familiar with user administration tasks commonly performed by system administrators.</li>
 <li>Be able to perform feasibility studies to determine the cost effectiveness of IT decisions in the area of system components to support virtualization environments.</li>
 </ol>
-## The primary course topics, designed to help you achieve the course objectives listed above, are:
+
+
+The primary course topics, designed to help you achieve the course objectives listed above, are:
+
 <ol>
 <li>Hardware/Software Virtualization – focusing primarily on server OS virtualization.</li>
 <li>Windows Server 2022 under Active Directory.</li>
